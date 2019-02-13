@@ -17,11 +17,11 @@ public final class RobotMap {
 
 	// speed controllers
 	public static final int driveTrainMotorLeft = 0;
-	public static final int driveTrainMotorRight = 1; //pin might be fried
+	public static final int driveTrainMotorRight = 5; 
 	public static final int liftMotor = 2;
 	public static final int flipityFlopMotor = 3; 
 	public static final int gripperMotor=4;
-	public static final int flyWheelMotor=5; //not currently used
+	public static final int flyWheelMotor=1; //pin might be fried
 
 
 	// limit switches
